@@ -52,7 +52,8 @@ We focus on _clean code, innovative design, and scalable architecture_ to help b
 ## 🌍 Connect With Us
 
 - 🔗 Team GitHub: [DP-Team-2025](https://github.com/DP-Team-2025)
-- 📫 For collaboration, please reach out through our members’ GitHub profiles.
+- 🔗 Team instagram: [DP-Team-2025]([https://github.com/DP-Team-2025](https://www.instagram.com/dpco.ir?igsh=MXJydXI5MnlxbGhsYQ==))
+- 📫 For collaboration, please reach out through our members’ GitHub or Instagram profiles.
 
 ---
 
